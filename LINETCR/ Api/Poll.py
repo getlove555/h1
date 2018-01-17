@@ -16,10 +16,10 @@ class Poll:
   http_query_path = "/S4";
   polling_path = "/P4";
   host = "gd2.line.naver.jp";
-  port = 443;
+  port = 443 ;
 
-  UA = "Line/6.0.0 iPad4,1 9.0.2"
-  LA = "DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0"
+  UA = "Line/7.18.0 iPad4,1 9.0.2"
+  LA = "CHROMEOS\t7.18.0\tChrome_OS\t1"
 
   rev = 0
 
